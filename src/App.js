@@ -7,7 +7,7 @@ import NewsContent from "./Components/NewsContent/NewsContent";
 import apiKey from "./Data/Config"
 import Footer from "./Components/Footer/Footer";
 import categories from "./Data/Category";
-import Search from "./Components/Search/Search";
+
 
 
 function App() {
